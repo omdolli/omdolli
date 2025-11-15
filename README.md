@@ -42,7 +42,7 @@ Intelligent web application that predicts an individual's Ayurvedic Dosha (Vata/
 
 # Skill and Tools
 💻 Languages:
-Python • SQL • C • C++
+Python • Java •React 
 
 📚 Frameworks & Libraries:
 TensorFlow • PyTorch • Scikit-Learn • OpenCV • SpeechRecognition • pyttsx3 • Flask • OpenAI API 
@@ -51,7 +51,7 @@ TensorFlow • PyTorch • Scikit-Learn • OpenCV • SpeechRecognition • pyt
 Git • GitHub • VS Code • Google Colab • Jupyter • Kaggle
 
 🎨 Others:
-Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
+Matplotlib • Seaborn  • Streamlit • HTML5 • CSS3
 # lt's Connect
 🔗 LinkedIn : https://www.linkedin.com/in/om-d-6a5527371
 
