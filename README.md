@@ -53,7 +53,7 @@ Git • GitHub • VS Code • Google Colab • Jupyter • Kaggle
 🎨 Others:
 Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
 # lt's Connect
-🔗 LinkedIn : www.linkedin.com/in/anand-kumbar07
+🔗 LinkedIn : https://www.linkedin.com/in/om-d-6a5527371
 
 🐙 GitHub : https://github.com/omdolli
 
